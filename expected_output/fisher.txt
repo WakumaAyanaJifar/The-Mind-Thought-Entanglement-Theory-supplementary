@@ -1,0 +1,6 @@
+h=2 mm (k up to 15.7 /cm): rank 8/8, cond 36.1
+   CRLB relative SD (%): A=0.236, c1=0.046, c2=0.441, gamma1=0.664, gamma2=0.797, a=0.316, m^2=0.432, geff^2=0.763
+h=5 mm: rank 8/8, cond 37.0
+   CRLB relative SD (%): A=0.234, c1=0.045, c2=0.437, gamma1=0.643, gamma2=0.792, a=0.313, m^2=0.435, geff^2=0.748
+h=10 mm: rank 8/8, cond 31.2
+   CRLB relative SD (%): A=0.285, c1=0.133, c2=0.457, gamma1=1.250, gamma2=1.018, a=0.464, m^2=0.462, geff^2=1.094

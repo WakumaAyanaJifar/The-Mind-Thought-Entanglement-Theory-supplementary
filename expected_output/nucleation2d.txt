@@ -1,0 +1,4 @@
+bounce u(0) = 2.39196; E_u = 7.7508 (virial: gradient part 7.7508); I = 8 E_u = 62.006
+V''=0.1: quadrature 0.312797  exact 0.312797  log form 0.311505
+V''=0.01: quadrature 0.452632  exact 0.452632  log form 0.452454
+V''=0.001: quadrature 0.593426  exact 0.593426  log form 0.593403

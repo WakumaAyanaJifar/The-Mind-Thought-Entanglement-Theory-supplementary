@@ -1,0 +1,13 @@
+C=1.5625 b=0.3750 leff=0.8200 W=9b^2/(4leff)=0.3859
+chi from linearization vs 1/V'': 0.8090877597020361 0.8090877597020352
+LOC slopes chi,tau,xi: [np.float64(-0.504), np.float64(-0.506), np.float64(-0.252)]
+ROC slopes chi,tau,xi: [np.float64(-1.0), np.float64(-1.0), np.float64(-0.5)]
+delta/W= 0.01 ratio numeric=0.045455 formula=0.045455
+delta/W= 0.10 ratio numeric=0.120127 formula=0.120127
+delta/W= 0.50 ratio numeric=0.207107 formula=0.207107
+delta/W= 1.00 ratio numeric=0.250000 formula=0.250000
+post-jump chi ratio (after LOC)/(after ROC): 3.9999999999999973
+delta_J= 0.021213203435596427
+numerical ROC saddle-node with J: 0.02113900000000002  sqrt(12 b J): 0.021213203435596427
+near (delta<<delta_J) slope: -0.591
+far (delta>>delta_J) slope: -1.018

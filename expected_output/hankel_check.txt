@@ -1,0 +1,2 @@
+damped, unequal speeds: kappa=[0.9619 3.1505], max relative error over k in [0.05,10]: 9.6e-11
+undamped, equal speeds: kappa=[0.8712 2.4348], max relative error over k in [0.05,10]: 4.6e-10

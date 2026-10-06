@@ -1,0 +1,18 @@
+h=2mm SNR/bin=5: fails=0 median%: A=0.22 c1=0.04 c2=0.23 gamma1=0.73 gamma2=0.59 a=0.36 m2=0.35 geff2=0.64
+      90th%: A=0.70 c1=0.11 c2=0.62 gamma1=1.89 gamma2=2.15 a=0.66 m2=1.06 geff2=1.49
+h=2mm SNR/bin=10: fails=0 median%: A=0.13 c1=0.03 c2=0.15 gamma1=0.38 gamma2=0.41 a=0.15 m2=0.18 geff2=0.33
+      90th%: A=0.28 c1=0.06 c2=0.43 gamma1=0.83 gamma2=0.81 a=0.38 m2=0.51 geff2=0.74
+h=2mm SNR/bin=20: fails=0 median%: A=0.05 c1=0.01 c2=0.13 gamma1=0.07 gamma2=0.17 a=0.07 m2=0.08 geff2=0.14
+      90th%: A=0.11 c1=0.03 c2=0.30 gamma1=0.28 gamma2=0.43 a=0.21 m2=0.20 geff2=0.38
+h=5mm SNR/bin=5: fails=0 median%: A=0.17 c1=0.03 c2=0.54 gamma1=0.51 gamma2=0.62 a=0.30 m2=0.52 geff2=0.65
+      90th%: A=0.40 c1=0.12 c2=1.05 gamma1=1.22 gamma2=1.92 a=0.65 m2=1.04 geff2=1.49
+h=5mm SNR/bin=10: fails=0 median%: A=0.17 c1=0.02 c2=0.18 gamma1=0.35 gamma2=0.39 a=0.10 m2=0.17 geff2=0.35
+      90th%: A=0.34 c1=0.05 c2=0.46 gamma1=0.87 gamma2=0.78 a=0.45 m2=0.46 geff2=0.79
+h=5mm SNR/bin=20: fails=0 median%: A=0.04 c1=0.01 c2=0.09 gamma1=0.17 gamma2=0.16 a=0.07 m2=0.08 geff2=0.12
+      90th%: A=0.12 c1=0.02 c2=0.23 gamma1=0.36 gamma2=0.41 a=0.14 m2=0.21 geff2=0.33
+h=10mm SNR/bin=5: fails=0 median%: A=0.21 c1=0.09 c2=0.47 gamma1=1.00 gamma2=0.86 a=0.38 m2=0.37 geff2=1.01
+      90th%: A=0.59 c1=0.34 c2=1.14 gamma1=2.20 gamma2=2.18 a=0.99 m2=0.93 geff2=2.12
+h=10mm SNR/bin=10: fails=0 median%: A=0.10 c1=0.06 c2=0.27 gamma1=0.57 gamma2=0.48 a=0.14 m2=0.28 geff2=0.50
+      90th%: A=0.35 c1=0.13 c2=0.47 gamma1=1.35 gamma2=1.07 a=0.42 m2=0.48 geff2=1.06
+h=10mm SNR/bin=20: fails=0 median%: A=0.07 c1=0.03 c2=0.11 gamma1=0.39 gamma2=0.20 a=0.09 m2=0.10 geff2=0.31
+      90th%: A=0.20 c1=0.07 c2=0.25 gamma1=0.77 gamma2=0.51 a=0.28 m2=0.23 geff2=0.68

@@ -1,0 +1,24 @@
+Fig. 3 parameters: b=0.375, lambda_eff=0.8200000000000001, W=0.3859
+(1) states (r, branch): chi(0), local response (sigma=0.3), xi, tau, ceff^2, damping coefficient
+   r=-1.000 wake             chi0=0.236 loc=0.0760 xi=0.729 tau=0.683 ceff2=2.249 G0=2.894
+   r=+0.385 just before LOC  chi0=24.221 loc=0.3545 xi=5.722 tau=30.185 ceff2=1.352 G0=1.246
+   r=+0.386 just after LOC   chi0=2.592 loc=0.2413 xi=1.792 tau=2.691 ceff2=1.239 G0=1.038
+   r=+1.000 deep             chi0=1.000 loc=0.1774 xi=1.146 tau=1.177 ceff2=1.314 G0=1.177
+   r=+4.000 very deep        chi0=0.250 loc=0.0928 xi=0.648 tau=0.463 ceff2=1.681 G0=1.852
+(2) window budget: r_G=3.86e-04 (1e-03 W); D=1.51e-04; delta*(nucleation)<= 4.66e-05 (0.12 r_G)
+    coverage L=25.0: delta_L(LOC)=7.60e-04 (0.0020 W), delta_L(ROC)=0.031 (0.079 W); step=0.0077
+    local LOC slope at delta/W=0.020: -0.562
+    local LOC slope at delta/W=0.200: -0.655
+    ROC lower edge 0.079 W; baseline drive must satisfy J0 << delta_min^2/(12 b) = 2.1e-04
+(3) J=1.0e-04: Delta r_LOC = 2 le J/(3b) = 1.46e-04; ROC at sqrt(12bJ) = 0.0212
+(3) J=4.0e-04: Delta r_LOC = 2 le J/(3b) = 5.83e-04; ROC at sqrt(12bJ) = 0.0424
+(3) J=1.6e-03: Delta r_LOC = 2 le J/(3b) = 2.33e-03; ROC at sqrt(12bJ) = 0.0849
+    numeric: ROC at r=0.02114 (sqrt(12bJ)=0.02121); LOC shift 1.458e-04 (J/Psi_c=1.458e-04)
+    numeric: ROC at r=0.04213 (sqrt(12bJ)=0.04243); LOC shift 5.833e-04 (J/Psi_c=5.831e-04)
+    numeric: ROC at r=0.08365 (sqrt(12bJ)=0.08485); LOC shift 2.336e-03 (J/Psi_c=2.332e-03)
+(4) P2/P5 coexistence, lambda_eff=0.82, r_w=-1:
+   W/(W-r_w)=0.01: b=0.061 Psi+=1.221 Psi-=-0.999 barrier ratio 1.71
+   W/(W-r_w)=0.02: b=0.086 Psi+=1.273 Psi-=-0.958 barrier ratio 2.14
+   W/(W-r_w)=0.05: b=0.138 Psi+=1.386 Psi-=-0.880 barrier ratio 3.37
+   W/(W-r_w)=0.10: b=0.201 Psi+=1.532 Psi-=-0.796 barrier ratio 5.77
+   W/(W-r_w)=0.20: b=0.302 Psi+=1.787 Psi-=-0.683 barrier ratio 13.29

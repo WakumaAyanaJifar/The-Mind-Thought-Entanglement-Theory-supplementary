@@ -1,0 +1,6 @@
+converged from A,w 1.0 2.5
+max residual 1.1446843473095214e-11 peak 0.9538988804535355
+FWHM (grid points above half maximum): 4.958333333333334
+FWHM (cubic-spline interpolation, value reported in the paper): 5.184162581048156
+lowest Hessian eigenvalues: [-1.23031694e+00  7.01732883e-13  7.41348994e-13  5.78722552e-01
+  6.50729220e-01]

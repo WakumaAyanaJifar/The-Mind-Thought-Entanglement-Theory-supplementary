@@ -1,0 +1,4 @@
+eps=0.00: P1 kappa=[0.9703 3.1605] R-=0.809 | P4 kappa=[0.9619 3.1505] R-=0.804 | route mismatch [0.87 0.32]% | P1 vs isotropic truth [0.87 0.32]%
+eps=0.05: P1 kappa=[0.9733 3.1305] R-=0.812 | P4 kappa=[0.9611 3.0785] R-=0.801 | route mismatch [1.27 1.69]% | P1 vs isotropic truth [ 1.19 -0.64]%
+eps=0.10: P1 kappa=[0.9783 3.0728] R-=0.821 | P4 kappa=[0.9584 2.8851] R-=0.791 | route mismatch [2.08 6.5 ]% | P1 vs isotropic truth [ 1.71 -2.47]%
+eps=0.20: P1 kappa=[0.9825 3.028 ] R-=0.847 | P4 kappa=[0.9432 2.3674] R-=0.734 | route mismatch [ 4.17 27.9 ]% | P1 vs isotropic truth [ 2.14 -3.89]%

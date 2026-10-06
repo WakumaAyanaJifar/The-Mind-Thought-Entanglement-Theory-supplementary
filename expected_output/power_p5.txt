@@ -1,0 +1,8 @@
+expected local exponents in these windows: LOC 0.612, ROC 1.000 (difference 0.388)
+with strong background drive (delta_J=0.3W) the expected difference falls to 0.141
+power (2000 simulated studies each):
+  CV per step | n=5   n=8   n=12  n=20
+         0.1  | 0.87  0.97  1.00  1.00
+         0.2  | 0.85  0.94  0.99  1.00
+         0.3  | 0.80  0.91  0.98  1.00
+         0.5  | 0.56  0.75  0.89  0.99

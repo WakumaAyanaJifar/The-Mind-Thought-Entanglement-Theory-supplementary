@@ -1,0 +1,2 @@
+Psi0 = 0.7500; minima Psi+ = 0.85860, Psi- = -0.52727
+Delta V = V(Psi-) - V(Psi+) = 0.2205   first order 2 J Psi0 = 0.2250

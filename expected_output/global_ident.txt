@@ -1,0 +1,10 @@
+200 starts: 142 reach misfit < 1e-6; of these, max parameter deviation from truth = 2.90e-12
+other local minima: 58; smallest misfit among them = 2.066e-01 (relative RMS)
+distinct indistinguishable sets (misfit<1e-6, deviation>1%): 0
+profile along geff^2 (others re-optimized from the truth): relative RMS misfit
+   geff^2 x0.9: 1.408e-02
+   geff^2 x0.95: 6.866e-03
+   geff^2 x0.99: 1.345e-03
+   geff^2 x1.01: 1.331e-03
+   geff^2 x1.05: 6.520e-03
+   geff^2 x1.1: 1.270e-02

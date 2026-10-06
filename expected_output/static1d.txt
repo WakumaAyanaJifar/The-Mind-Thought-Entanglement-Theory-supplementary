@@ -1,0 +1,16 @@
+full: peak 0.6120 FWHM 5.478 residual 2.2e-11
+no cross terms: peak 1.3095 FWHM 5.438
+cross/Hartree at peak: 1.32
+Hessian (full) lowest: [-1.061  0.     0.539]
+Hessian (no cross) lowest: [-1.756 -0.     0.649]
+initial-guess survey (9x9): 63 to the solution, 18 to the trivial state, 0 other/failed
+  N=256 L=20: peak 0.61202 FWHM 5.4779
+  N=1024 L=20: peak 0.61202 FWHM 5.4779
+  N=2048 L=20: peak 0.61202 FWHM 5.4779
+  N=512 L=40: peak 0.61207 FWHM 5.4771
+  N=1024 L=40: peak 0.61207 FWHM 5.4771
+  g2 x0.95: peak 0.658 FWHM 5.58
+  g2 x1.05: peak 0.573 FWHM 5.40
+  dynamics eps=+0.01: final t=10.00, peak=5.9
+  dynamics eps=-0.01: final t=30.00, peak=-0.0459
+  dynamics eps=+0.00: final t=30.00, peak=0.612

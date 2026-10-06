@@ -1,0 +1,4 @@
+k_c=0.6446; Psi0=0.75; a=2.6875
+undamped equal-speed: kappa=[0.87123587 2.43484046], R=[0.62694906 0.37305094], geometric mean=1.278
+damped unequal-speed: kappa=[0.96190439 3.15047699], R=[0.8042009 0.1957991], geometric mean=1.213
+single K0 best fit kappa=0.903; E-I example kappa=[1.45462803 1.69825124], weights=[-1.45283366  2.45283366]

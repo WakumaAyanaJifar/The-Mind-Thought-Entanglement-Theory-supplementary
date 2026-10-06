@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "The Mind-Thought Entanglement (MTE) Framework: code for a classical two-field model of conscious unity"
+type: software
+authors:
+  - family-names: Ning
+    given-names: Huansheng
+    orcid: "https://orcid.org/0000-0001-6413-193X"
+  - family-names: Ayana
+    given-names: Jifar Wakuma
+    orcid: "https://orcid.org/0009-0001-9484-9253"
+  - family-names: Ding
+    given-names: Jianguo
+    orcid: "https://orcid.org/0000-0002-8927-0968"
+repository-code: "https://github.com/WakumaAyanaJifar/The-Mind-Thought-Entanglement-Theory-supplementary"
+keywords:
+  - unity of consciousness
+  - anaesthesia
+  - hysteresis
+  - criticality
+  - neural field models
+preferred-citation:
+  type: article
+  title: "The Mind-Thought Entanglement (MTE) Framework as a Classical Two-Field Model of Conscious Unity, with Asymmetric Critical Signatures at Loss and Recovery of Consciousness"
+  authors:
+    - family-names: Ning
+      given-names: Huansheng
+    - family-names: Ayana
+      given-names: Jifar Wakuma
+    - family-names: Ding
+      given-names: Jianguo
+  journal: "Neuroscience of Consciousness"
+  status: submitted
+  year: 2026

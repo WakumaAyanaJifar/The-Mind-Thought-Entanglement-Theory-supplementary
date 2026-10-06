@@ -1,0 +1,13 @@
+baseline (Fig. 2b): required SNR 100; kappa_-=0.962 kappa_+=3.150
+c1 x0.8: required SNR 50  kappa_-=1.139 kappa_+=3.327
+c1 x1.25: required SNR 200  kappa_-=0.797 kappa_+=3.041
+c2 x0.8: required SNR 200  kappa_-=0.997 kappa_+=3.801
+c2 x1.25: required SNR 50  kappa_-=0.911 kappa_+=2.661
+gamma1 x0.8: required SNR 100  kappa_-=0.962 kappa_+=3.150
+gamma1 x1.25: required SNR 100  kappa_-=0.962 kappa_+=3.150
+gamma2 x0.8: required SNR 100  kappa_-=0.962 kappa_+=3.150
+gamma2 x1.25: required SNR 100  kappa_-=0.962 kappa_+=3.150
+m (m^2 x f^2) x0.8: required SNR 50  kappa_-=0.407 kappa_+=2.783
+m (m^2 x f^2) x1.25: required SNR 500  kappa_-=1.245 kappa_+=3.727
+geff (geff^2 x f^2) x0.8: required SNR 100  kappa_-=1.212 kappa_+=3.063
+geff (geff^2 x f^2) x1.25: required SNR 100  kappa_-=0.434 kappa_+=3.265

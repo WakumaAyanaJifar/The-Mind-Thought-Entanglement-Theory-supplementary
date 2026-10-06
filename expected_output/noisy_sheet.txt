@@ -1,0 +1,19 @@
+W=0.3859, lattice 64x64, a=0.5, area 1024
+
+r_G/W=0.01: D=0.002699
+ delta/W | LOC chi_sim/chi_MF | ROC chi_sim/chi_MF
+   0.003 |   escaped      |   escaped     
+   0.010 |    0.99+-0.08  |   escaped     
+   0.030 |    0.93+-0.10  |   escaped     
+   0.100 |    1.06+-0.09  |   escaped     
+   0.300 |    1.07+-0.08  |    0.96+-0.05 
+   1.000 |      --        |    1.00+-0.06 
+
+r_G/W=0.1: D=0.03562
+ delta/W | LOC chi_sim/chi_MF | ROC chi_sim/chi_MF
+   0.003 |   escaped      |   escaped     
+   0.010 |   escaped      |   escaped     
+   0.030 |    1.48+-0.22  |   escaped     
+   0.100 |    1.11+-0.05  |   escaped     
+   0.300 |    1.40+-0.14  |   escaped     
+   1.000 |      --        |    1.31+-0.16 

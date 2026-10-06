@@ -1,0 +1,2 @@
+valid cases passing G1 and G3: 1125 failures: 0
+mixed-sign cases: 1445  with a negative weight: 1445

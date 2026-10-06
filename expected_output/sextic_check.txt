@@ -1,0 +1,3 @@
+nu=0.0: peak 0.6120 FWHM 5.478 lowest Hessian eigenvalues [-1.061  0.     0.539]; +eps run (weak damping 0.2): diverges
+nu=0.01: peak 0.6123 FWHM 5.483 lowest Hessian eigenvalues [-1.058 -0.     0.539]; +eps run (weak damping 0.2): saturates at peak 10.48
+nu=0.05: peak 0.6133 FWHM 5.501 lowest Hessian eigenvalues [-1.048  0.     0.538]; +eps run (weak damping 0.2): saturates at peak 4.97
